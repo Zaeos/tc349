@@ -1,0 +1,10 @@
+I'm not sure how I feel about the bulk of the main page. It seems a little messy that the posts with a picture
+have the title and first bit of text on the left but those articles without a title have the title on the left
+and the text on the right. It's a little arbitrary and inconsistent. The "Hillman" article also seems to be the
+only one missing a link arrow next to the article title. The plain black lines being the ONLY separator 
+between articles seems a bit cramped as well. A little goofy, but it gets the job done.
+
+The top and bottom bar I like much better. The top is minimal but links to all the important spots in the site.
+The bottom is structured in a fashion that is pleasing to the eye and provides some good external links that
+readers should find useful. The "With support from" box seems to have a blank ad, though I doubt that's 
+anything the author had a hand in.

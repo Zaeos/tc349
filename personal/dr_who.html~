@@ -1,0 +1,27 @@
+<! DOCTYPE html>
+
+<head>
+	<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+	<LINK REL=StyleSheet HREF="css/who_style.css" TYPE="text/css" MEDIA=screen>
+	<title>Dr. Who is better than Grandma's Cooking</title>
+</head>
+<body>
+	<h1>Time and Space!</h1>
+	<p>Doctor Who is the longest running science fiction television show in the history of the human race about a time-traveling alien called The Doctor who flies through time and space having adventures and battling evil. How has it survived for so long while still having enough social impact to drastically alter worldwide bow-tie sales? I'm glad I pretended you asked!</p>
+	<h2>Reasons Dr. Who is Better Than the Things You Like</h2>
+	<h3>1. Science Fiction</h3>
+	<p>Which of these sound more interesting?</p>
+	 <ul>
+	 	<li>A bunch of humans talking and driving around and killing each other on Earth.</li>
+	 	<li>A bunch of aliens trying to blow up Earth and flying spaceships and shooting cyborgs with lasers.</li>
+	 </ul>
+	 <p><strong>Fun Fact!</strong> If you answered the first one, you are <em>scientifically</em> wrong. I'd like to make you feel better about this if you did answer the first but no one can argue with science (except for, arguably, the Dp>Aoctor).</p>
+	 <h3>2. Adult Themes (Not the pervy kind)</h3>
+	 <p>While the Doctor is generally a fun-loving and eccentric character, he also occasionally does morally questionable things like committing multiple genocides. Human clones created to be workhorses in dangerous environments revolting against their creators, people's bodies being used as fuel for creating alien children, and having to decide between entire planets being either mutilated or destroyed are all plot fodder Doctor Who.</p>
+	 <h3>3. Bow-Ties</h3>
+	 <p>They're pretty cool.</p>
+	 <img src="images/eleven.jpg" />
+ 	 <p>Also, that is the current Doctor, played by Matt Smith</p>
+	 <p><a href="index.html">Back!</a></p> 
+</body>
+</html>

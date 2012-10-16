@@ -1,0 +1,12 @@
+Heroku.com has excellent design. The color scheme is cool and dark but always very legible. The top bar has the company logo and links to
+some of the more major portions of the site, inlcuding a login screen. The bottom bar isn't initially seen but, once scrolled down to,
+has many more detailed links to more obscure parts of the site.
+
+The content of the site fits in beautifully with the rest of the color scheme. The animations are very well-produced and provide a wealth
+of interactive information. The background color of each section of content is distinct from the others, making the structure very well-
+defined and easy to read. Overall, this site has top-notch production quality and I cannot think of any meaningful objections to its design.
+
+The layout I chose for my site was the single column. I did this because my site was already designed in this manner to a degree.
+I polished it up a little and added headers and footers sections to give the structure more definition and to make styling easier.
+I think this design fits the content of my site well, as the content is rather minimal and the navigation bar fits better horizontally
+rather than vertically.

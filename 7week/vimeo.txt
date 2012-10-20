@@ -1,0 +1,10 @@
+Vimeo has an attractive and intuitive site layout. The splash image at the top provides an attractive entrance to the site. Following this,
+the different content sections as you scroll down have different background colors to separate the blocks of content. This makes it very
+easy to take in at a glance the different major sections of content on the first page. All of the content on the page gives enough information
+and links to be informative without being large enough to make the page tediously long.
+
+The bar on the top is fairly mimimal but still provides quick links to what will be the most typically visited portions of the site. The 
+bar on the bottom has a few more links that are more specific and well-placed in that they are easy to find for those looking but not
+taking up too much prime screen real estate for those who are not. In addition, the javascript elements on the page are fluid and attractive
+and the handful of minimalistic decorations around the different content areas makes the site much less boring to look at than it would be
+otherwise. Overall, I would say this site demonstrates some fairly excellent design practices.

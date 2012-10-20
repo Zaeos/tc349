@@ -7,19 +7,25 @@
 	<title>This Title is Not Very Imaginative</title>
 </head>
 <body>
-	<!--div id="navcontainer">
+	<div id="navcontainer">
 		<ul id="navlist">
 			<li><a href="index.html">The home page</a></li>
 			<li><a href="dr_who.html">The page where I talk about the greatest show in the galaxy</a></li>
 			<li><a href="marked_up.html">The page about other things I find interesting</a></li>
 			<li><a href="page_four.html">The page which rounds out my requirements for this assignment</a></li>
 		</ul>
-	</div-->
-	<div class="mainContent">
-		<h1>Header!</h1>
-			<p>Welcome to my oh-so-vanilla homepage! There's not a whole lot to it yet, but it's still just a pupa. Its body tags have not yet hardened into an Internet-tastic chrysalis to dissolve its sub-blocks, liquify them into raw hexadecimal and then rearrange them into a beautiful, flappy digital butterfly thing. Metaphors are hard, okay?</p>
-			<h3>Here's something to bring joy to a solemn heart</h3>
-			<img src="images/marine_mariachi.gif"/>
+	</div>
+	<div class="wrap">
+		<header>
+			<h1>Header!</h1>
+		</header>
+		<div class="mainContent">
+			<section>
+				<p>Welcome to my oh-so-vanilla homepage! There's not a whole lot to it yet, but it's still just a pupa. Its body tags have not yet hardened into an Internet-tastic chrysalis to dissolve its sub-blocks, liquify them into raw hexadecimal and then rearrange them into a beautiful, flappy digital butterfly thing. Metaphors are hard, okay?</p>
+				<h3>Here's something to bring joy to a solemn heart</h3>
+				<img src="images/marine_mariachi.gif"/>
+			</section>
+		</div>
 	</div>
 </body>
 </html>

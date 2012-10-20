@@ -15,11 +15,18 @@
 			<li><a href="page_four.html">The page which rounds out my requirements for this assignment</a></li>
 		</ul>
 	</div>
-	<div class="mainContent">
-		<h1>Some Javascript</h1>
-		<p><em>Really</em> running out of ideas here.<button onclick="alert('It is currently ' + Date());" />Push it!</button></p>
-		<p>Now look at this! <span id="loud">LOOK AT IT</span></p>
+	<div class="wrap">
+		<header>
+			<h1>Some Javascript</h1>
+		</header>
+		<div class="mainContent">
+			<p><em>Really</em> running out of ideas here.<button onclick="alert('It is currently ' + Date());" />Push it!</button></p>
+			<p>Now look at this! <span class="loud">LOOK AT IT</span></p>
+		</div>
+		<p class="opticalIllusion"><img width="650" src="images/illusion.gif" /></p>
 	</div>
-	<p class="opticalIllusion"><img src="images/illusion.gif" /></p>
+	<footer>
+		Created by Zack Taylor for his TC349 Web Design Class. 2012, some rights reserved.
+	</footer>
 </body>
 </html>

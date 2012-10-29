@@ -18,7 +18,6 @@ footer {
 
 .mainContent {
 	text-align: center;
-	width: 600px;
 	padding: 15px 20px;
 	margin: 0 auto;
 	background-color: #888;

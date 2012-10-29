@@ -9,10 +9,10 @@
 <body>
 	<div id="navcontainer">
 		<ul id="navlist">
-			<li><a href="index.html">The home page</a></li>
-			<li><a href="dr_who.html">The page where I talk about the greatest show in the galaxy</a></li>
-			<li><a href="marked_up.html">The page about other things I find interesting</a></li>
-			<li><a href="page_four.html">The page which rounds out my requirements for this assignment</a></li>
+			<li><a href="index.html">Home</a></li>
+			<li><a href="dr_who.html">Dr. Who</a></li>
+			<li><a href="marked_up.html">Links</a></li>
+			<li><a href="page_four.html">Optical Illusions</a></li>
 		</ul>
 	</div>
 	<div class="wrap">
@@ -27,5 +27,8 @@
 			</section>
 		</div>
 	</div>
+	<footer>
+		Created by Zack Taylor for his TC349 Web Design Class. 2012, some rights reserved. <a href="site_info.html">Site Info</a>
+	</footer>
 </body>
 </html>

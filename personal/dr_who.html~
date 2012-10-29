@@ -9,10 +9,10 @@
 <body>
 	<div id="navcontainer">
 		<ul id="navlist">
-			<li><a href="index.html">The home page</a></li>
-			<li><a href="dr_who.html">The page where I talk about the greatest show in the galaxy</a></li>
-			<li><a href="marked_up.html">The page about other things I find interesting</a></li>
-			<li><a href="page_four.html">The page which rounds out my requirements for this assignment</a></li>
+			<li><a href="index.html">Home</a></li>
+			<li><a href="dr_who.html">Dr. Who</a></li>
+			<li><a href="marked_up.html">Links</a></li>
+			<li><a href="page_four.html">Optical Illusions</a></li>
 		</ul>
 	</div>
 	<div class="wrap">
@@ -39,11 +39,30 @@
 					<p>Also, that is the current Doctor, played by Matt Smith</p>
 				</div>
 			</section>
-		<div>
-	</div>
+			<section>
+				<h2>Reasons the Doctor is a Better Moral Authority than Jesus Christ</h2>
+				<div class="scifiList">
+					<ol>
+						<li>
+							<h3>Forgiveness</h3>
+							<p>Jesus was all about forgiveness, sure. But he's got nothing on the Doctor. The Master, the Doctor's longtime arch-nemesis, once spent an entire year subverting humanity's timeline, massacreing huge portions of the human race and building weapons to wage war on the rest of the universe. Upon reversing these changes and restoring the timeline to its proper place, the Doctor, with the Master cringing at his feet, stoops down, holds him briefly, and tells him that he is forgiven. After this, the Doctor states that he intends to keep the Master with him in his time machine, as it is the only place he can stay to keep the rest of the universe safe. This is only one instance in a long history of the Doctor battling cruelty and hatred with reservation and kindness.</p>
+						</li>
+						<li>
+							<h3>Self-Sacrifice</h3>
+							<p>Everybody's heard the story about Jesus dying for humanity's sins, sure. But not everyone is aware that the Doctor has died not once, not twice, but TEN times (so far) in defense of the human race. You might think that these deaths are less impressive because of course he comes back after each one. But the tenth incarnation of the Doctor explicitly states <em>"Even if I change, it feels like dying. Everything I am dies. Some new man goes sauntering away...and I'm dead."</em> It hurts him every time and even so, he repeatedly sacrifices his lives in defense of humans who are, by any measure, far less selfless and powerful than he.</p>
+						</li>
+						<li>
+							<h3>Miracles</h3>
+							<p>Jesus supposedly dide some pretty neat stuff. Turning some bread and fish into more bread and fish, water into wine, healing the sick, saving all of humanity, etc. A lot of pretty nice stuff! The Doctor on the other hand has saved the world <em>dozens</em> of times. He's hauled spaceships out of black holes, healed an entire hospital full of humans infected with every disease in the known universe, and saved not just humanity, but <em>every single race in the universe</em> on <em>multiple</em> occasions.</p>
+						</li>
+					</ol>
+				</div>
+				<p>In closing, the biblical Jesus did some pretty neat stuff but by just about any measure you can think of (short of, perhaps, stone masonry) the Doctor has shown that he adheres to the doctrines espoused by Jesus rather better than the man himself.</p>
+			</section>
+		</div>
 	</div>
 	<footer>
-		Created by Zack Taylor for his TC349 Web Design Class. 2012, some rights reserved.
+		Created by Zack Taylor for his TC349 Web Design Class. 2012, some rights reserved. <a href="site_info.html">Site Info</a>
 	</footer>
 </body>
 </html>

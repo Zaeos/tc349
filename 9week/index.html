@@ -1,0 +1,22 @@
+<! DOCTYPE html>
+
+<head>
+	<meta http-equiv="Content-type" content="text/html; charset=utf-8">
+	<title>This Page</title>
+	<script type="text/javascript" src="javascript/jquery.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			var myQuote = $('#my_quote');
+			myQuote.hide();
+			$('.button').click(function(){
+				myQuote.show(500);
+			});
+		});
+	</script>
+</head>
+<body>
+	<h1>jQuery Demo</h1>
+	<p><a href="#" class="button">Blockquote</a></p>
+	<blockquote id="my_quote"><p>Hey, wasn't that neat?</p></blockquote>
+</body>
+</html>

@@ -1,0 +1,3 @@
+The MSU movile site is very bare-bonesy and is well-suited to the mobile environment. The small number of icons provide easy navigation to the site's content. The absence of any kind of navigation bar and the inclusion of a search bar is helpful for not cluttering up the screen with redundant navigation.
+
+The color scheme make the links easy to read and is consistent throughout the site. There's not very much else to say about the mobile site, it gets the job done, small as the job may be.

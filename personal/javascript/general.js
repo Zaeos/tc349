@@ -1,2 +1,5 @@
-alert('asgsag');
+function doAThing()
+{
+	alert("The browser you're using is: " + navigator.appName + ' ' + navigator.appVersion);
+}
 

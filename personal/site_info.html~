@@ -2,10 +2,9 @@
 
 <head>
 	<meta http-equiv="Content-type" content="text/html; charset=utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
 	<LINK REL=StyleSheet HREF="css/navigation.css" TYPE="text/css" MEDIA=screen>
 	<LINK REL=StyleSheet HREF="css/style.css" TYPE="text/css" MEDIA=screen>
-	<title>Optical Illusions</title>
+	<title>This Title is Not Very Imaginative</title>
 </head>
 <body>
 	<div id="navcontainer">
@@ -19,16 +18,18 @@
 	</div>
 	<div class="wrap">
 		<header>
-			<h1>Optical Illusions</h1>
+			<h1>Site Information</h1>
 		</header>
 		<div class="mainContent">
-			<p><em>Really</em> running out of ideas here.<button onclick="alert('It is currently ' + Date());" />Push it!</button></p>
-			<p>Now look at this! <span class="loud">LOOK AT IT</span></p>
 			<section>
-				<p class="opticalIllusion"><img width="400" src="images/illusion.gif" /></p>
+				<h2>Personal Bio</h2>
+				<p>The author of this page is Zack Taylor. He is 22 years old and a senior at Michigan State University majoring in computer science.</p>
 			</section>
 			<section>
-				<p class="opticalIllusion"><img src="images/dancer.gif" /></p>
+				<h2>Contact Information</h2>
+				<p>E-mail: taylorz3@msu.edu</p>
+				<p>Phone: 989-444-0010</p>
+				<p>Common Aliases: Zaeos, Lord Exvoc</p>
 			</section>
 		</div>
 	</div>

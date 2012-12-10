@@ -2,10 +2,9 @@
 
 <head>
 	<meta http-equiv="Content-type" content="text/html; charset=utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1.0"> 
 	<LINK REL=StyleSheet HREF="css/navigation.css" TYPE="text/css" MEDIA=screen>
 	<LINK REL=StyleSheet HREF="css/style.css" TYPE="text/css" MEDIA=screen>
-	<title>Optical Illusions</title>
+	<title>Kinds of Pie I Like</title>
 </head>
 <body>
 	<div id="navcontainer">
@@ -19,16 +18,17 @@
 	</div>
 	<div class="wrap">
 		<header>
-			<h1>Optical Illusions</h1>
+			<h1>Pie. Because Pie</h1>
 		</header>
 		<div class="mainContent">
-			<p><em>Really</em> running out of ideas here.<button onclick="alert('It is currently ' + Date());" />Push it!</button></p>
-			<p>Now look at this! <span class="loud">LOOK AT IT</span></p>
 			<section>
-				<p class="opticalIllusion"><img width="400" src="images/illusion.gif" /></p>
-			</section>
-			<section>
-				<p class="opticalIllusion"><img src="images/dancer.gif" /></p>
+				<p>The following are some of my favorite types of pie listed in descending order. Note- This is a very rough estimate, I like many kinds of pie.</p>
+				<ol>
+					<li>Key Lime<br /><img src="images/key_lime_pie.jpg" /></li>
+					<li>Pumpkin<br /><img src="images/pumpkin_pie.jpg" /></li>
+					<li>Caramel Apple Dumpling<br /><img src="images/caramel_apple_dumpling_pie.jpg" /></li>
+					<li>Raspberry<br /><img src="images/raspberry_pie.jpg" /></li>
+				</ol>
 			</section>
 		</div>
 	</div>

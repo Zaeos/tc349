@@ -1,3 +1,10 @@
+body {
+	background-image:url('../images/who_bg.jpg');
+	background-repeat:repeat;
+	background-size:100% auto;
+	background-attachment: fixed;
+}
+
 h1{
 	color:green;
 	font-color: LightGreen;
@@ -7,6 +14,7 @@ h1{
 header {
 	text-align: center;
 	background-color: #e4e4e4;
+	box-shadow: 5px 5px 5px #0f0f0f;
 }
 
 footer {
@@ -44,7 +52,7 @@ footer {
 }
 
 .opticalIllusion {
-	text-align: left;
+	text-align: center;
 	width: 600px;
 }
 
@@ -57,4 +65,23 @@ footer {
 .wrap {
 	margin: 0 auto;
 	width: 600px;
+}
+
+.section {
+	text-align: center;
+}
+
+@media (max-width: 320px) {
+	.wrap {
+		margin: 0 auto;
+		width: 300px;
+	}
+	
+	img {
+		max-width: 75%;
+	}
+	
+	section {
+		text-align: left;
+	}
 }
